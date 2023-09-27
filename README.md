@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" lenght="300" src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg=="  />
+  <img height="200" width="300" src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg=="  />
 </div>
 
 ###
