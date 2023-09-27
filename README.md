@@ -3,16 +3,22 @@
 ###
 
 <h4 align="left">Me chamo Fernando e esses são alguns dos meus projetos e também um registro da minha evolução.</h4>
+<br>
 
 ###
 
 <p align="left">:triangular_flag_on_post: : Em busca da minha primeira vaga como Dev .NET JR</p>
+<br>
+<br>
 
 ###
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ3eWVvaXNlbHVqZnIxOTV2YzVwN2VzbHp2cHUwZXIzZ3h4a2FmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
 </div>
+
+<br>
+<br>
 
 ###
 
