@@ -65,8 +65,6 @@
   <img height="200" src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg=="  />
 </div>
 
-<p>Fique a vontade</p>
-
 ###
 <!--
 **Fertilesoil/Fertilesoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
